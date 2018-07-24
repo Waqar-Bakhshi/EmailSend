@@ -17,7 +17,7 @@
         android:layout_height="44dp"
         android:layout_alignParentTop="true"
         android:background="#80125F"
-       >
+       />
 
 
         <ImageView
@@ -35,7 +35,7 @@
             android:layout_alignParentEnd="true"
             android:layout_marginEnd="21dp"
             app:srcCompat="@drawable/ic_action_pass" />
-    </RelativeLayout>
+
 
     <RelativeLayout
 
